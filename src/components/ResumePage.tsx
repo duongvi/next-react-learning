@@ -27,7 +27,7 @@ const ResumePage: React.FC = () => {
         });
       },
       {
-        rootMargin: '-50% 0px -50% 0px', // Only trigger when section is in the middle of the viewport
+        rootMargin: '-30% 0px -70% 0px', // Only trigger when section is in the middle of the viewport
         threshold: 0
       }
     );
