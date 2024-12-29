@@ -43,17 +43,17 @@ export function getProjects() {
   return [
     {
       imageUrl: "https://http.cat/images/202.jpg",
-      title: "Project 1",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ligula a urna varius tincidunt. Suspendisse tincidunt in ex vulputate congue. Praesent hendrerit felis eget luctus rutrum. Curabitur venenatis varius mauris, eu rhoncus sem convallis vel. ",
+      title: "This resume page",
+      description: "This resume page that you are currently looking at is the first project that I tackled in my frontend learning journey.",
       tags: ["JavaScript", "TypeScript", "React", "HTML", "TailwindCSS", "Next.js"],
-      url: "https://example.com",
+      url: "/",
     },
     {
-      imageUrl: "https://http.cat/images/404.jpg",
-      title: "Project 2",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ligula a urna varius tincidunt. Suspendisse tincidunt in ex vulputate congue. Praesent hendrerit felis eget luctus rutrum. Curabitur venenatis varius mauris, eu rhoncus sem convallis vel.",
+      imageUrl: "/quote-generator.png",
+      title: "Random quote generator",
+      description: "My second project is a simple challenge that I saw and found interesting on freeCodeCamp. It uses a public open-source API to fetch and display random quotes.",
       tags: ["JavaScript", "TypeScript", "React", "HTML", "TailwindCSS", "Next.js"],
-      url: "https://example.com",
+      url: "/quote-generator",
     },
     {
       imageUrl: "https://http.cat/images/500.jpg",
